@@ -13,7 +13,7 @@ I guess it could be useful if you are interested in working with the system tray
 
 Screenshots
 ===========
-![Title](screenshots/ct_clear_formatting_menu.png "Clear formatting menu") &nbsp;
+![Alt text](screenshots/ct_clear_formatting_menu.png "Clear formatting menu") &nbsp;
 ![Alt text](screenshots/ct_clear_formatting_notification.png "Clear formatting notification") &nbsp;
 ![Alt text](screenshots/ct_conver_cyrillic_to_latin_menu.png "Transliteration menu") &nbsp;
 ![Alt text](screenshots/ct_conver_cyrillic_to_latin_notification.png "Transliteration notification") &nbsp;
@@ -21,4 +21,3 @@ Screenshots
 ![Alt text](screenshots/ct_started_active.png "Tool started, active") &nbsp;
 ![Alt text](screenshots/ct_started_inactive.png "Tool started, inactive") &nbsp;
 ![Alt text](screenshots/ct_started_inactive_menu.png "Tool started, inactive") &nbsp;
-![Alt text](screenshots/ct_tray_menu.png "Clear formatting notification") &nbsp;
