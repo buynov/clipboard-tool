@@ -1,7 +1,7 @@
 Clipboard Tool
 ==============
 
-This is a project I initially [shared on Sourceforge](https://sourceforge.net/projects/clipboard-tool/) several years ago.
+This is a project I initially [shared on Sourceforge](https://sourceforge.net/projects/clipboard-tool/) several years ago ([initial announcement] (http://buynov.com/2008/04/02/48)).
 
 This tool requires Java 1.6, due to the system tray support and has two main features:
   * Transliteration from and to cyrillic text (i.e. if you are concerned that the cyrillic characters might not be displayed on the recepient's side)
